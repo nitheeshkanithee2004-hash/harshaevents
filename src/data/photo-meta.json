@@ -488,6 +488,14 @@
   "thumbHeight": 707
  },
  {
+  "category": "anniversary",
+  "file": "anniversary-06.jpg",
+  "width": 1012,
+  "height": 1375,
+  "thumbWidth": 520,
+  "thumbHeight": 707
+ },
+ {
   "category": "wedding",
   "file": "wedding-01.jpg",
   "width": 1100,
