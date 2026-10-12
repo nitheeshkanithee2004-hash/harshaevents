@@ -1,0 +1,27 @@
+# Netlify configuration for Harsha Events & Decor
+# The site is fully static: `npm run build` writes the deployable `dist/` folder.
+# There is no server, no database and no environment variable to set.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # Vite 8 needs Node 20.19+ / 22.12+
+  NODE_VERSION = "22.12.0"
+
+# Vite fingerprints everything inside /assets, so it can be cached forever.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Single page site - only the in-page #anchors are used, so no SPA redirect
+# rule is required. (Add `/* /index.html 200` under [[redirects]] only if
+# client-side routing is added later.)

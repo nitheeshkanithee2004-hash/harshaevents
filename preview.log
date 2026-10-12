@@ -1,0 +1,8 @@
+npm notice run harsha-events-decor@1.0.0 npx
+npm notice run vite preview --port 4318 --strictPort --host 127.0.0.1
+[31merror when starting preview server:
+Error: Port 4318 is already in use
+    at httpServerStart (file:///D:/PROJECTS/harsha-events-decor/node_modules/vite/dist/node/chunks/node.js:14706:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async preview (file:///D:/PROJECTS/harsha-events-decor/node_modules/vite/dist/node/chunks/node.js:35726:2)
+    at async CAC.<anonymous> (file:///D:/PROJECTS/harsha-events-decor/node_modules/vite/dist/node/cli.js:811:18)[39m
