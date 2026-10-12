@@ -1,0 +1,521 @@
+{
+ "excludedSourceIndexes": [
+  29,
+  59
+ ],
+ "photos": [
+  {
+   "category": "birthday",
+   "file": "birthday-01.jpg",
+   "source": "photo-001.jpg",
+   "width": 736,
+   "height": 736,
+   "thumbWidth": 520,
+   "thumbHeight": 520
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-02.jpg",
+   "source": "photo-002.jpg",
+   "width": 735,
+   "height": 717,
+   "thumbWidth": 520,
+   "thumbHeight": 507
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-03.jpg",
+   "source": "photo-003.jpg",
+   "width": 736,
+   "height": 736,
+   "thumbWidth": 520,
+   "thumbHeight": 520
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-04.jpg",
+   "source": "photo-004.jpg",
+   "width": 736,
+   "height": 511,
+   "thumbWidth": 520,
+   "thumbHeight": 361
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-05.jpg",
+   "source": "photo-005.jpg",
+   "width": 736,
+   "height": 736,
+   "thumbWidth": 520,
+   "thumbHeight": 520
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-06.jpg",
+   "source": "photo-006.jpg",
+   "width": 720,
+   "height": 673,
+   "thumbWidth": 520,
+   "thumbHeight": 486
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-07.jpg",
+   "source": "photo-007.jpg",
+   "width": 736,
+   "height": 736,
+   "thumbWidth": 520,
+   "thumbHeight": 520
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-08.jpg",
+   "source": "photo-008.jpg",
+   "width": 736,
+   "height": 736,
+   "thumbWidth": 520,
+   "thumbHeight": 520
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-09.jpg",
+   "source": "photo-010.jpg",
+   "width": 1200,
+   "height": 888,
+   "thumbWidth": 520,
+   "thumbHeight": 385
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-10.jpg",
+   "source": "photo-011.jpg",
+   "width": 721,
+   "height": 1280,
+   "thumbWidth": 520,
+   "thumbHeight": 923
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-11.jpg",
+   "source": "photo-012.jpg",
+   "width": 736,
+   "height": 981,
+   "thumbWidth": 520,
+   "thumbHeight": 693
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-12.jpg",
+   "source": "photo-013.jpg",
+   "width": 736,
+   "height": 981,
+   "thumbWidth": 520,
+   "thumbHeight": 693
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-13.jpg",
+   "source": "photo-014.jpg",
+   "width": 736,
+   "height": 981,
+   "thumbWidth": 520,
+   "thumbHeight": 693
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-14.jpg",
+   "source": "photo-015.jpg",
+   "width": 736,
+   "height": 981,
+   "thumbWidth": 520,
+   "thumbHeight": 693
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-15.jpg",
+   "source": "photo-016.jpg",
+   "width": 736,
+   "height": 981,
+   "thumbWidth": 520,
+   "thumbHeight": 693
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-16.jpg",
+   "source": "photo-017.jpg",
+   "width": 720,
+   "height": 1280,
+   "thumbWidth": 520,
+   "thumbHeight": 924
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-17.jpg",
+   "source": "photo-018.jpg",
+   "width": 736,
+   "height": 1308,
+   "thumbWidth": 520,
+   "thumbHeight": 924
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-18.jpg",
+   "source": "photo-019.jpg",
+   "width": 1200,
+   "height": 1483,
+   "thumbWidth": 520,
+   "thumbHeight": 643
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-19.jpg",
+   "source": "photo-020.jpg",
+   "width": 735,
+   "height": 725,
+   "thumbWidth": 520,
+   "thumbHeight": 513
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-20.jpg",
+   "source": "photo-021.jpg",
+   "width": 1080,
+   "height": 1080,
+   "thumbWidth": 520,
+   "thumbHeight": 520
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-21.jpg",
+   "source": "photo-022.jpg",
+   "width": 1200,
+   "height": 798,
+   "thumbWidth": 520,
+   "thumbHeight": 346
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-22.jpg",
+   "source": "photo-023.jpg",
+   "width": 800,
+   "height": 800,
+   "thumbWidth": 520,
+   "thumbHeight": 520
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-23.jpg",
+   "source": "photo-024.jpg",
+   "width": 1066,
+   "height": 1338,
+   "thumbWidth": 520,
+   "thumbHeight": 653
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-24.jpg",
+   "source": "photo-025.jpg",
+   "width": 1079,
+   "height": 1362,
+   "thumbWidth": 520,
+   "thumbHeight": 656
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-25.jpg",
+   "source": "photo-026.jpg",
+   "width": 716,
+   "height": 1600,
+   "thumbWidth": 520,
+   "thumbHeight": 1162
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-26.jpg",
+   "source": "photo-027.jpg",
+   "width": 1200,
+   "height": 1600,
+   "thumbWidth": 520,
+   "thumbHeight": 693
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-27.jpg",
+   "source": "photo-028.jpg",
+   "width": 1080,
+   "height": 963,
+   "thumbWidth": 520,
+   "thumbHeight": 464
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-28.jpg",
+   "source": "photo-030.jpg",
+   "width": 1080,
+   "height": 1047,
+   "thumbWidth": 520,
+   "thumbHeight": 504
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-29.jpg",
+   "source": "photo-031.jpg",
+   "width": 1080,
+   "height": 980,
+   "thumbWidth": 520,
+   "thumbHeight": 472
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-30.jpg",
+   "source": "photo-032.jpg",
+   "width": 1200,
+   "height": 900,
+   "thumbWidth": 520,
+   "thumbHeight": 390
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-31.jpg",
+   "source": "photo-033.jpg",
+   "width": 1200,
+   "height": 900,
+   "thumbWidth": 520,
+   "thumbHeight": 390
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-32.jpg",
+   "source": "photo-034.jpg",
+   "width": 1200,
+   "height": 900,
+   "thumbWidth": 520,
+   "thumbHeight": 390
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-33.jpg",
+   "source": "photo-035.jpg",
+   "width": 693,
+   "height": 850,
+   "thumbWidth": 520,
+   "thumbHeight": 638
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-34.jpg",
+   "source": "photo-036.jpg",
+   "width": 1200,
+   "height": 1200,
+   "thumbWidth": 520,
+   "thumbHeight": 520
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-35.jpg",
+   "source": "photo-037.jpg",
+   "width": 1080,
+   "height": 1920,
+   "thumbWidth": 520,
+   "thumbHeight": 924
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-36.jpg",
+   "source": "photo-038.jpg",
+   "width": 1200,
+   "height": 900,
+   "thumbWidth": 520,
+   "thumbHeight": 390
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-37.jpg",
+   "source": "photo-039.jpg",
+   "width": 1080,
+   "height": 1512,
+   "thumbWidth": 520,
+   "thumbHeight": 728
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-38.jpg",
+   "source": "photo-040.jpg",
+   "width": 1200,
+   "height": 900,
+   "thumbWidth": 520,
+   "thumbHeight": 390
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-39.jpg",
+   "source": "photo-041.jpg",
+   "width": 1200,
+   "height": 900,
+   "thumbWidth": 520,
+   "thumbHeight": 390
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-40.jpg",
+   "source": "photo-042.jpg",
+   "width": 1200,
+   "height": 900,
+   "thumbWidth": 520,
+   "thumbHeight": 390
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-41.jpg",
+   "source": "photo-043.jpg",
+   "width": 739,
+   "height": 1600,
+   "thumbWidth": 520,
+   "thumbHeight": 1126
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-42.jpg",
+   "source": "photo-044.jpg",
+   "width": 722,
+   "height": 1600,
+   "thumbWidth": 520,
+   "thumbHeight": 1152
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-43.jpg",
+   "source": "photo-045.jpg",
+   "width": 1080,
+   "height": 1600,
+   "thumbWidth": 520,
+   "thumbHeight": 770
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-44.jpg",
+   "source": "photo-046.jpg",
+   "width": 1032,
+   "height": 1280,
+   "thumbWidth": 520,
+   "thumbHeight": 645
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-45.jpg",
+   "source": "photo-047.jpg",
+   "width": 1200,
+   "height": 1600,
+   "thumbWidth": 520,
+   "thumbHeight": 693
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-46.jpg",
+   "source": "photo-048.jpg",
+   "width": 1200,
+   "height": 1600,
+   "thumbWidth": 520,
+   "thumbHeight": 693
+  },
+  {
+   "category": "birthday",
+   "file": "birthday-47.jpg",
+   "source": "photo-058.jpg",
+   "width": 1200,
+   "height": 900,
+   "thumbWidth": 520,
+   "thumbHeight": 390
+  },
+  {
+   "category": "haldi",
+   "file": "haldi-01.jpg",
+   "source": "photo-049.jpg",
+   "width": 1200,
+   "height": 983,
+   "thumbWidth": 520,
+   "thumbHeight": 426
+  },
+  {
+   "category": "haldi",
+   "file": "haldi-02.jpg",
+   "source": "photo-050.jpg",
+   "width": 1200,
+   "height": 1525,
+   "thumbWidth": 520,
+   "thumbHeight": 661
+  },
+  {
+   "category": "haldi",
+   "file": "haldi-03.jpg",
+   "source": "photo-051.jpg",
+   "width": 1200,
+   "height": 1128,
+   "thumbWidth": 520,
+   "thumbHeight": 489
+  },
+  {
+   "category": "haldi",
+   "file": "haldi-04.jpg",
+   "source": "photo-052.jpg",
+   "width": 1200,
+   "height": 1198,
+   "thumbWidth": 520,
+   "thumbHeight": 519
+  },
+  {
+   "category": "haldi",
+   "file": "haldi-05.jpg",
+   "source": "photo-053.jpg",
+   "width": 1134,
+   "height": 1149,
+   "thumbWidth": 520,
+   "thumbHeight": 527
+  },
+  {
+   "category": "haldi",
+   "file": "haldi-06.jpg",
+   "source": "photo-054.jpg",
+   "width": 949,
+   "height": 1113,
+   "thumbWidth": 520,
+   "thumbHeight": 610
+  },
+  {
+   "category": "haldi",
+   "file": "haldi-07.jpg",
+   "source": "photo-055.jpg",
+   "width": 969,
+   "height": 975,
+   "thumbWidth": 520,
+   "thumbHeight": 523
+  },
+  {
+   "category": "haldi",
+   "file": "haldi-08.jpg",
+   "source": "photo-056.jpg",
+   "width": 1200,
+   "height": 1227,
+   "thumbWidth": 520,
+   "thumbHeight": 532
+  },
+  {
+   "category": "haldi",
+   "file": "haldi-09.jpg",
+   "source": "photo-057.jpg",
+   "width": 950,
+   "height": 907,
+   "thumbWidth": 520,
+   "thumbHeight": 496
+  },
+  {
+   "category": "anniversary",
+   "file": "anniversary-01.jpg",
+   "source": "photo-009.jpg",
+   "width": 1012,
+   "height": 1375,
+   "thumbWidth": 520,
+   "thumbHeight": 707
+  }
+ ]
+}
