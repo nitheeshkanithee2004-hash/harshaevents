@@ -456,6 +456,38 @@
   "thumbHeight": 707
  },
  {
+  "category": "anniversary",
+  "file": "anniversary-02.jpg",
+  "width": 1012,
+  "height": 1375,
+  "thumbWidth": 520,
+  "thumbHeight": 707
+ },
+ {
+  "category": "anniversary",
+  "file": "anniversary-03.jpg",
+  "width": 1012,
+  "height": 1375,
+  "thumbWidth": 520,
+  "thumbHeight": 707
+ },
+ {
+  "category": "anniversary",
+  "file": "anniversary-04.jpg",
+  "width": 1012,
+  "height": 1375,
+  "thumbWidth": 520,
+  "thumbHeight": 707
+ },
+ {
+  "category": "anniversary",
+  "file": "anniversary-05.jpg",
+  "width": 1012,
+  "height": 1375,
+  "thumbWidth": 520,
+  "thumbHeight": 707
+ },
+ {
   "category": "wedding",
   "file": "wedding-01.jpg",
   "width": 1100,
